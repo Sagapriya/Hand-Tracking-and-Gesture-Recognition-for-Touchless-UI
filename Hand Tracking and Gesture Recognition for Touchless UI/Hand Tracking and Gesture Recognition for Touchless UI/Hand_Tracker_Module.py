@@ -1,9 +1,8 @@
 '''
 
 Hand Tracking Module
-By: Adhithyaa Sabareeswaran
-LinkedIn: https://www.linkedin.com/in/adhithyaa-s/
-GitHub: https://github.com/adhi1702
+By: Sagapriya.S
+GitHub: https://github.com/Sagapriya
 
 '''
 
